@@ -40,3 +40,5 @@ This project demonstrates how to use computer vision, calibration, and robotic c
 6.Start the game
 
   After Acamera.py generates a JSON file containing the Board to Robot matrix, return to the innit.py terminal and press Enter. The robot is now ready. After you make a move, press F and   the DeltaX robot will calculate and execute its move.
+
+  !!!Note: remember to create your env file with your roboflow api key in it
