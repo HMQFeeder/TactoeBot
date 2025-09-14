@@ -13,6 +13,7 @@ This project demonstrates how to use computer vision, calibration, and robotic c
 4.Initialize the system
 
 5.Configure gameplay settings
+
 6.Run the game with the DeltaX robot
 
 ##Step by step instructions:
